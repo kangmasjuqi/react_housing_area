@@ -25,4 +25,4 @@
 
 ### Author
 
-    marjuqi[dot]rahmat[at]gmail[dot].com
+    marjuqi[dot]rahmat[at]gmail[dot]com
